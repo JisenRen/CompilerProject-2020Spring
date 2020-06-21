@@ -1,1 +1,0 @@
-/usr/bin/c++  -std=c++11 -faligned-new -O2 -Wno-sign-compare -Wno-deprecated-declarations -fPIC   -rdynamic CMakeFiles/solution.dir/solution/solution.cc.o  -o solution  -Wl,-rpath,/home/rjs/CompilerProject-2020Spring/build ../libboost.so -ldl ../lib/libjsoncpp.a 
